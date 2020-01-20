@@ -4,6 +4,8 @@ var student = function(){
     this.email="khushbu2gmail.com"
 }
 
+
+
 student.prototype={
     address:"surat",
     getName:function(){
