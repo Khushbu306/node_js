@@ -12,6 +12,7 @@ student.prototype={
 }
 
 var stud= new student();
+
 console.log(stud.address);
 
 
